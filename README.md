@@ -1,7 +1,7 @@
 # Projet1
 Projet 1
 
-Objectif : Le site doit être un support pour l'environnement installé sur la VM. Par un pipeline sur Jenkins, le code du site doit être analysé. Il doit aussi y avoir des tests unitaires quant au login et mot de passe.
+Objectif : Le site doit être un support pour l'environnement installé sur la VM. Par un pipeline sur Jenkins, le code du site doit être analysé. Il doit aussi y avoir des tests unitaires quant au login et mot de pass
 
 Schéma d'architecture : 
 
