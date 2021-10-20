@@ -18,9 +18,9 @@
         
         <div class="container">
             <div class="row">
-                <a href="https://www.google.fr/" target="_blank"><img class="col-sm" src="img/github.png" width="200px" height="220px"></a>
-                <a href="" target="_blank"><img class="col-sm" src="img/jenkins.png" width="200px" height="220px"></a>
-                <a href="" target="_blank"><img class="col-sm" src="img/sonarqube.png" width="350px" height="220px"></a>
+                <a href="https://github.com/Thomas35f/Projet1" target="_blank"><img class="col-sm" src="img/github.png" width="200px" height="220px"></a>
+                <a href="http://localhost:8080" target="_blank"><img class="col-sm" src="img/jenkins.png" width="200px" height="220px"></a>
+                <a href="http://localhost:9000" target="_blank"><img class="col-sm" src="img/sonarqube.png" width="350px" height="220px"></a>
             </div>
         </div>
      
